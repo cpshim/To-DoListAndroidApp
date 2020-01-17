@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="task_edit_text">New Task</string>
+    <string name="add_task_label">Add Task</string>
+    <string name="task_text_view" />
+    <string name="check_box_label">Done</string>
+</resources>
